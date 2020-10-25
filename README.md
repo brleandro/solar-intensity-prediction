@@ -1,6 +1,6 @@
-#Solar intensity prediction
+# Solar intensity prediction
 
-##Team members:
+## Team members:
 
 - Leandro Orilio do Carmo
 - Gustavo Patino
